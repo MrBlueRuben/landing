@@ -1,0 +1,15 @@
+.banner h1, p {
+  color: azure;
+}
+.banner{
+  background-size: cover;
+  background-position: 0 59%;
+  padding: 200px;
+
+}
+.container{
+  padding: 0 auto;
+}
+.banner h2{
+  color: azure;
+}
